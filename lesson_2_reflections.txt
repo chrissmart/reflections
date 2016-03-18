@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+A file with the filename extension called .git is built, and
+this does favor of keeping a record of commits.

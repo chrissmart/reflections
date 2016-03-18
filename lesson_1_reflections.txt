@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here: It clearly shows the changed parts by
+    putting the previous and the current file in separate lines.
+    
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here: Either collaboration with other developers
+    or keep track of bugs or revised parts is the advantage.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here: For creating a commit, it is easier to keeep track of 
+    changes, but how to make a proper judgement call is hard to say. For Google docs,
+    it is convenient when the system automatically saves the file. However, this means
+    the record of changed part is not as precise as what commit functions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here: The files going through Google Docs are more independent while
+    the files within Git have a multiple connection or interaction to each other, making it
+    reasonable to use commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here: Firstly type git log to see the record of revised part in order,
+    and then copy the id of files that are needed to be compared, and type the id after git diff.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here: It keeps track of history of the changed part and
+    creats a more straight way to fix the disrupted point.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here: Develop an Android Application
