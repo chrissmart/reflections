@@ -1,3 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 A file with the filename extension called .git is built, and
 this does favor of keeping a record of commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is where the programmer decides how many files transit to the repository.
+It provides a more flexible interface for users to package a certain pattern of files in each logic change.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By typing git diff --staged
