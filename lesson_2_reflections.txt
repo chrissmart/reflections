@@ -8,3 +8,8 @@ It provides a more flexible interface for users to package a certain pattern of 
 
 How can you use the staging area to make sure you have one commit per logical change?
 By typing git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When creating a new version of interface assisting another language or providing another level of access,
+it takes advantage to use brances. This kind of tool help turn back to the offical version of file that
+is flexible to extend possible applications and adjustment for any situations.
