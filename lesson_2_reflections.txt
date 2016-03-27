@@ -16,3 +16,7 @@ is flexible to extend possible applications and adjustment for any situations.
 
 How do the diagrams help you visualize the branch structure?
 By keying in git log branch_1 branch_2, the window shows how branch_1 links to branch_2.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Branches are combined together into one master branch, and the commits are listed based on time sequence.
+Listed in the diagram, it is straightforward to search for the relevant changes.
