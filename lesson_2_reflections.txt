@@ -20,3 +20,8 @@ By keying in git log branch_1 branch_2, the window shows how branch_1 links to b
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Branches are combined together into one master branch, and the commits are listed based on time sequence.
 Listed in the diagram, it is straightforward to search for the relevant changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Doing merge automatically helps see the instant result of combining the adjusted or additional functions
+in the program, but this would face a risk of unexpected outcome if merging process is not compatible.
+For manul method, it is more flexible for users to do merge. In return of this, it takes more time. 
