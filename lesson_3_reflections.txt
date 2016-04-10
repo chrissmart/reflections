@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When I would like to share the file in my local postion with others. 
+Secondly, it is more accessible to reach the file through the cloud rather than
+carrying a burden device.
