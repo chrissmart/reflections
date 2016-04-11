@@ -6,3 +6,8 @@ carrying a burden device.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It goes better to pull changes manually as this avoids uncertain result to the local. 
 The uncertain result here means a false link to the branch or unauthorized change to the local.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are used when copying a file from another into yours on GitHub.
+To receive a repository either from GitHub or the local into your appointed file, clones play its function.
+Branches only happen inside a repository with an eye to creating an additional and independent text or expansion. 
