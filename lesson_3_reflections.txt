@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 When I would like to share the file in my local postion with others. 
 Secondly, it is more accessible to reach the file through the cloud rather than
 carrying a burden device.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It goes better to pull changes manually as this avoids uncertain result to the local. 
+The uncertain result here means a false link to the branch or unauthorized change to the local.
